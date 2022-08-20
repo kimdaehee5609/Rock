@@ -1,17 +1,15 @@
 # Rock
 
+
+git clone https://github.com/kimdaehee5609/Rock.git
+
+
+
 2022.08.14.토
 
 
-    암석
-        암석
-        풍화작용과 지질구조
-        화석
-        지각변형
-        한반도의 지질구조
-
-        지진
+암반
 
 
-
+git pull
 
